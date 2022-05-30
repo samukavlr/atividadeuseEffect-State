@@ -1,1 +1,1 @@
-use o comando "npm run dev" para rodar o projeto
+#Use o comando "npm run dev" para rodar o projeto
